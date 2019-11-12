@@ -121,7 +121,7 @@
             <li><a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=f54230108f6e9cc68e36dbce8deace72c5f6508a7a82452b99abab8d29599a72" class="icon fa-users"><span class="label">QQ群</span></a></li>
         </ul>
         <ul class="copyright">
-            <li>&copy; 2017&mdash;2019 <a href="https://www.bbai520.com/">· 四季 与你 ·驿站</a> All rights reserved</li><li>由 <a href="http://pixeL.net.cn">silin.wang</a> 提供技术支持.</li>
+            <li>&copy; 2017&mdash;2019 <a href="https://www.bbai520.com/">· 四季 与你 ·驿站</a> All rights reserved</li><li>由 <a href="http://pixeL.net.cn">kyubi.wang</a> 提供技术支持.</li>
 
         </ul>
         <ul class="beian">
